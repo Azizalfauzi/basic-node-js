@@ -1,0 +1,8 @@
+Hello Bandung
+Hello World
+┌───────────┬───────────┐
+│  (index)  │  Values   │
+├───────────┼───────────┤
+│ firstName │  'Aziz'   │
+│ lastName  │ 'Alfauzi' │
+└───────────┴───────────┘
